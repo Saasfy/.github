@@ -1,5 +1,8 @@
 # Saasfy — your modern SaaS template
 
+![Technologies](./image-2.png)
+
+
 I have to say that Saasfy is just a repository on GitHub in the Saasfy organization. But this repository has many features for fast application building.
 
 1. **Authorization and authentication with Supabase**
