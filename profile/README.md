@@ -3,12 +3,24 @@
 ![Technologies](/profile/image-2.png)
 
 
-I have to say that Saasfy is just a repository on GitHub in the Saasfy organization. But this repository has many features for fast application building.
+## Why do you need Saasfy?
+
+In the competitive landscape of software development, speed is paramount. The ability to quickly transform a brilliant idea into a market-ready product can be the difference between success and obscurity. This is where Saasfy shines.
+
+By leveraging the power of Saasfy, you bypass the tedious and time-consuming aspects of SaaS development. You no longer need to spend weeks grappling with user authorization, payment gateways, or building intricate APIs. Saasfy provides you with a modern, comprehensive template that accelerates your development process exponentially.
+
+Imagine having the framework for your SaaS application ready in just a few days. With Saasfy, this becomes a reality. You can focus your energy on refining your idea, polishing your user experience, and crafting a compelling value proposition. You'll be ready to launch your product and generate revenue in no time.
+
+Saasfy isn't just a template; it's your ticket to success in the world of SaaS. Whether you're a seasoned developer with years of experience or a newcomer looking to make your mark, Saasfy empowers you to turn your dreams into reality.
+
+So why wait? Unlock the potential of your next brilliant idea with Saasfy and start your journey towards SaaS success today.
+
+## Features
 
 1. **Authorization and authentication with Supabase**
   - Login with email, Google, GitHub, etc.
   - Protected pages and API calls
-  - Account setting page (WIP)
+  - Account setting page
 2. **Payments with Stripe**
   - Create plans and monthly/annual prices on the admin panel
   - Create one-time payments (WIP)
@@ -47,10 +59,10 @@ I have to say that Saasfy is just a repository on GitHub in the Saasfy organizat
   - CRUD API for workspace managing
   - Workspace member roles
   - Billing settings
-  - Workspace setting (WIP)
-  - Plan limits (max users, max projects, max domains)
+  - Workspace setting
+  - Plan limits (max users, max projects, max domains) (WIP)
   - Managing custom domains (WIP)
-  - Member invites (WIP)
+  - Member invites
 10. Projects, aka blog posts, events, products, or anything in your workspace
   - CRUD API (WIP)
   - Public access via custom domain (WIP)
@@ -63,22 +75,3 @@ I have to say that Saasfy is just a repository on GitHub in the Saasfy organizat
 
 ... and it has just started!
 
-## You can get access to Saasfy right now!
-
-There are two options to do this:
-- You can become my sponsor on GitHub. Find a tier with "Lifetime access to the Saasfy mono repository" and buy any of them
-- You can find the direct prices on [saasfy.dev](https://saasfy.dev)
-
-In both cases, you will get lifetime access to the Saasfy monorepo, with contributing and discussion opportunities. A higher subscription will also give you access to the roadmap and feature prioritization. 
-
-## Why do you need Saasfy?
-
-In the competitive landscape of software development, speed is paramount. The ability to quickly transform a brilliant idea into a market-ready product can be the difference between success and obscurity. This is where Saasfy shines.
-
-By leveraging the power of Saasfy, you bypass the tedious and time-consuming aspects of SaaS development. You no longer need to spend weeks grappling with user authorization, payment gateways, or building intricate APIs. Saasfy provides you with a modern, comprehensive template that accelerates your development process exponentially.
-
-Imagine having the framework for your SaaS application ready in just a few days. With Saasfy, this becomes a reality. You can focus your energy on refining your idea, polishing your user experience, and crafting a compelling value proposition. You'll be ready to launch your product and generate revenue in no time.
-
-Saasfy isn't just a template; it's your ticket to success in the world of SaaS. Whether you're a seasoned developer with years of experience or a newcomer looking to make your mark, Saasfy empowers you to turn your dreams into reality.
-
-So why wait? Unlock the potential of your next brilliant idea with Saasfy and start your journey towards SaaS success today.
